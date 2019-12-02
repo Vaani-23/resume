@@ -1,0 +1,128 @@
+
+body
+{
+margin: 0;
+
+}
+#myheader{
+top: 0;
+position: absolute;
+width: 100%;
+background-color: rgba(0,0,0,0.7);
+height: 10vh;
+padding-top: 2vh;
+color: #fff;
+font-size: 4vh;
+font-weight: 700;
+z-index: -1;
+font-family: Bradley Hand, cursive;
+text-align: center;
+}
+#Contact{
+	background-color: #03DAC6;
+	width: 50vh;
+	height: 120vh;
+	z-index: 1;
+	float: left;
+	margin-left: 10vh;
+}
+#Info-Container
+{
+	width: 42vh;
+	margin-top: 15vh;
+	position: absolute;
+}
+.span1
+{
+	color:rgba(0,0,0,0.7);
+	font-size: 4vh;
+	float: right;
+	width: 15vh;
+	padding-top: 5vh;
+	text-align: left;
+font-family: Amaranth;
+}
+#Otherinfo
+{
+	width: 38vh;
+	margin-top: 26vh;
+	
+	font-family: Amaranth;
+text-align: left;
+font-size: 2.3vh;
+
+}
+#Education{
+width: 38vh;
+	
+	padding-top: 2vh;
+	font-family: Amaranth;
+text-align: center;
+font-size: 2.3vh;
+}
+hr
+{
+	width: 12vh;
+	height: 0.2vh;
+	background-color: #fff;
+	margin-top: -0.2vh;
+}
+.edu{
+font-size: 2vh;
+font-family: Amaranth;
+text-align: left;
+margin-left: 3vh;
+}
+
+#Objective
+{
+	width: 130vh;
+	height: 13vh;
+	z-index: -1;
+	border-top-right-radius: 20vh;
+	border-bottom-right-radius: 20vh;
+	float: left;
+	margin-top: 15vh;
+	background-color: #333;
+	color: #fff;
+	padding-top: 0.5vh;
+	text-align: left;
+	padding-left: 2vh;
+	font-family: Amaranth;
+
+}
+#Achievements
+{
+	width: 130vh;
+	height: 16vh;
+	z-index: -1;
+	border-top-right-radius: 20vh;
+	border-bottom-right-radius: 20vh;
+	float: left;
+	margin-top: 4vh;
+	background-color: #333;
+	color: #fff;
+	padding-top: 0.5vh;
+	text-align: left;
+	padding-left: 2vh;
+	font-family: Amaranth;
+
+}
+#footer
+{
+	width: 130vh;
+	height: 12vh;
+	z-index: -1;
+	bottom: 0;
+	float: left;
+	margin-top: 4vh;
+	background-color: #333;
+	color: #fff;
+	padding-top: 0.5vh;
+	text-align: left;
+	padding-left: 2vh;
+	font-family: Amaranth;
+	border-top-right-radius: 20vh;
+	border-bottom-right-radius: 20vh;
+
+}
